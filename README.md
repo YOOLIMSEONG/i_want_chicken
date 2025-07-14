@@ -10,4 +10,4 @@
 6. 진소현
 7. Ryu Changwoo
 8. HAEJIN YOON
-안태경
+9. 안태경
